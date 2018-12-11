@@ -1,0 +1,5 @@
+*.o
+*.a
+debug/
+*.[tb]
+!hello.t
